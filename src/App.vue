@@ -235,7 +235,6 @@ body {
   width: 100vw;
   height: 100vh;
   display: flex;
-  border: blue 1px solid;
   overflow: auto;
 }
 .menu {
